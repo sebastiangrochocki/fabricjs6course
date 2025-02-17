@@ -33,7 +33,7 @@ If your development environment differs, you may need to adjust dependencies or 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fabricjs6course.git
+   git clone https://github.com/sebastiangrochocki/fabricjs6course.git
    cd fabricjs6course
    ```
 2. Install dependencies:
