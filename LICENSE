@@ -1,6 +1,14 @@
-MIT License
+# License
 
-Copyright (c) 2025 sebastiangrochocki
+This project uses Fabric.js, which is licensed under the MIT License.  
+Fabric.js Copyright (c) 2010-2023 Printio (Fabric.js Authors)  
+For more details, see the official Fabric.js [license](https://github.com/fabricjs/fabric.js/blob/master/LICENSE).
+
+---
+
+## MIT License (For This Project)
+
+Copyright (c) 2025 Sebastian Grochocki
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
