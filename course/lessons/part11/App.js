@@ -1,16 +1,16 @@
 import React, { useEffect, useRef, useState } from "react";
 import { Canvas } from "fabric";
 import "./styles.scss";
-import Settings from "./Settings";
-import Video from "./Video";
-import AddElements from "./AddElements";
-import CanvasSettings from "./CanvasSettings";
-import { handleObjectMoving, clearGuidelines } from "./snappingHelpers";
-import Cropping from "./Cropping";
-import CroppingSettings from "./CroppingSettings";
-import LayersList from "./LayersList";
-import FabricAssist from "./fabricAssist";
-import StyleEditor from "./StyleEditor";
+import Settings from "../../src/Settings";
+import Video from "../../src/Video";
+import AddElements from "../../src/AddElements";
+import CanvasSettings from "../../src/CanvasSettings";
+import { handleObjectMoving, clearGuidelines } from "../../src/snappingHelpers";
+import Cropping from "../../src/Cropping";
+import CroppingSettings from "../../src/CroppingSettings";
+import LayersList from "../../src/LayersList";
+import FabricAssist from "../../src/fabricAssist";
+import StyleEditor from "../../src/StyleEditor";
 
 function CanvasComponent() {
   const canvasRef = useRef(null);
